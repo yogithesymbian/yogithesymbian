@@ -14,6 +14,8 @@
 
 <span align="center">
 
+![Yogithesymbian's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yogithesymbian) 
+  
 ![Yogithesymbian's trophy](https://github-profile-trophy.vercel.app/?username=yogithesymbian)
   
 </span>
@@ -43,16 +45,12 @@
   
 [![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
-[![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](#)
     
-  
-  
-
 </span>
 
 <span align="right">
-  
-  ![Yogithesymbian's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yogithesymbian) 
+
+
   
 </span>
 <!--
