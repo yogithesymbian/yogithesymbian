@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yogi</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h5 align="center">please stop create a new framework or library. hard for make a teams beacuse so much concept. just development that already exist any function u can contribute ( Open PR ). if u know about gado2 "food from indonesia" its look like that if we didnt find yang se aliran on development application.</h5>
 
 <span align="center">
 
