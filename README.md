@@ -42,7 +42,7 @@
 <h4 align="center">💻 Workspace</h4>
 <span align="center">
   
-[![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
+[![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
     
 </span>
