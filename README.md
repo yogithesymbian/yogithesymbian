@@ -20,7 +20,8 @@
   
 </span>
 
-![Yogithesymbian's top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1 align="center">⚡ focused:</h1>
 
