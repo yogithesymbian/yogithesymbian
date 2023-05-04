@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 <h5 align="center">I’ve work with another client in other space, 
  and i think you might find it very interesting to have a chat</h5>
- <h3 align="center">Top skills<br/>
+ <h3 align="center">🔭 Top skills<br/>
 Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 #
