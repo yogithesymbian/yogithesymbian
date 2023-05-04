@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 <h5 align="center">I’ve work with another client in other space, 
  and i think you might find it very interesting to have a chat</h5>
+ <h3 align="center">Top skills<br/>
+Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
+
+#
 
 <span align="center">
 
@@ -20,20 +24,12 @@
 <span align="center">
   
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-[![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
   
 </span>
 
-<span align="center">
-  
-  *
-  *
-  
-</span>
+#
 
 <h4 align="center">💻 Workspace</h4>
 <span align="center">
@@ -43,6 +39,19 @@
     
 </span>
 
+#
+
+
+
+<h4 align="center">🌱 longtime not code:</h4>
+
+<span align="center">
+  
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+[![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+  
+</span>
 
 <!--
 **yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
