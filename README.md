@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 <h5 align="center">I’ve work with another client in other space, 
  and i think you might find it very interesting to have a chat</h5>
