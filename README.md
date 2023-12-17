@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 <h1 align="center">Hi 👋, I'm Yogi</h1>
-<h5 align="center">With a strong passion for learning and a drive to contribute to the company's growth and success. I believe in the power of teamwork, and I strive to create a collaborative environment where everyone can achieve more together. My expertise includes skills in Provider, Bloc, Getx, Riverpod, and Domain-Driven Design (DDD). I am committed to continuous improvement and always aim to make things better. Let's work together to take the company to new heights!</h5>
+
  <h3 align="center">🔭 Top skills<br/>
 Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
