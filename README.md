@@ -21,16 +21,18 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 align="center">⚡ focused:</h1>
+<h1 align="center">⚡ focused:</h1
 
 <span align="center">
 
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)  
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-  
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)  
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
+
 </span>
+
 
 #
 
@@ -55,7 +57,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
   
-</span>
+
 
 <h1 align="center">⚡ Using pre-designed themes to save time 🌐✨</h1>
 
@@ -64,6 +66,17 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [Vuexy Admin Pages](https://themeforest.net/item/vuexy-vuejs-html-laravel-admin-dashboard-template/23328599?irgwc=1&clickid=2GZUCg24MxyPRNwRP7QjnXbsUkFwbe0SWwQq0k0&iradid=275988&irpid=1244113&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1244113&utm_medium=affiliate&utm_source=impact_radius) by [pixinvent](https://themeforest.net/user/pixinvent)
 
 [Appilo Wordpress](https://themeforest.net/item/appilo-app-landing-wordpress-theme/22358661) by [themexriver](https://themeforest.net/user/themexriver)
+
+<hr/>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: yogithesymbian
+- ⚡ Fun fact: HRD Dreams
 
 <!--
 **yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
