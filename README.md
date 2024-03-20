@@ -1,6 +1,24 @@
-![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
+If You Like This Repository Then *****, Support The Developers.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
+
+<hr/>
 
 <h1 align="center">Hi 👋, I'm Yogi</h1>
+Here are some of the things clients have said about my work:
+
+- ⚡️ “Evan & his team are the real deal!” - E-commerce client with $20M revenue, whose website I built in 3 weeks.
+- ⚡️ “[QUOTE #2 FROM PAST WORK]” - Large retailer with $50M revenue, total website overhaul.
+- ⚡️ “[QUOTE #3 FROM PAST WORK]” - $100M consumer brand, 30 landing pages built.
+
+(Note: This is just sample text.)
+
+
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
+
+</div>
 
  <h3 align="center">🔭 Top skills<br/>
 Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
@@ -78,11 +96,6 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 - 😄 Pronouns: yogithesymbian
 - ⚡ Fun fact: HRD Dreams
 
-<hr/>
-
-If You Like This Repository Then *****, Support The Developers.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
 <!--
 **yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
