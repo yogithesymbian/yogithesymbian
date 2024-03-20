@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
+
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 
  <h3 align="center">🔭 Top skills<br/>
@@ -77,6 +77,12 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 - 📫 How to reach me: ...
 - 😄 Pronouns: yogithesymbian
 - ⚡ Fun fact: HRD Dreams
+
+<hr/>
+
+If You Like This Repository Then *****, Support The Developers.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
 <!--
 **yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
