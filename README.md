@@ -36,8 +36,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&langs_count=16&layout=compact&hide=javascript,html,css,php,handlebars,jupyter+notebook,blade,tsql,shell,ruby,c,ejs,matlab,cmake)
 
 <h1 align="center">⚡ focused:</h1
 
