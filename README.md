@@ -53,11 +53,13 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 #
 
-<h4 align="center">💻 Workspace (click to preview)</h4>
+<h4 align="center">💻 Workspace</h4>
 <span align="center">
   
 [![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+
+<span align="center"> <img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" lazy height="150" width="120" align="center"/> </span>
     
 </span>
 
