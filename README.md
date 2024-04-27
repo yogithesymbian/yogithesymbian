@@ -11,7 +11,7 @@ Here are some of the things clients have said about my work:
 - ⚡️ “[QUOTE #2 FROM PAST WORK]” - Large retailer with $50M revenue, total website overhaul.
 - ⚡️ “[QUOTE #3 FROM PAST WORK]” - $100M consumer brand, 30 landing pages built.
 
-(Note: This is just sample text.)
+(Note: This is just sample text.) <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif"/>
 
 
 <div align="center">
