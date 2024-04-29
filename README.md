@@ -35,8 +35,13 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [old_web_profile](https://yodev.my.id)
 
 
+![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
+
+![status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogithesymbian&theme=vue)
+![commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogithesymbian&theme=vue&utcOffset=+08)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&langs_count=16&layout=compact&hide=javascript,html,css,php,handlebars,jupyter+notebook,blade,tsql,shell,ruby,c,ejs,matlab,cmake)
+![h1m](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogithesymbian&theme=vue&exclude=Html,Css,Php,Handlebars,Jupyter+Notebook,Blade,Tsql,Shell,Ruby,C,Ejs,Matlab,Cmake)
 
 <h1 align="center">⚡ focused:</h1
 
