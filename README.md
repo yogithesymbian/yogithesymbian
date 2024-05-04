@@ -16,7 +16,7 @@ Here are some of the things clients have said about my work:
 
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
+![visitor-counter](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
 
 </div>
 
