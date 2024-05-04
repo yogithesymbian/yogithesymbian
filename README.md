@@ -82,15 +82,6 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
   
 
-
-<h1 align="center">⚡ Using pre-designed themes to save time 🌐✨</h1>
-
-[Flutter Doctor](https://codecanyon.net/item/doctor-plus-for-doctor-flutter-template/36211533?irgwc=1&clickid=2GZUCg24MxyPRNwRP7QjnXbsUkFwbcR6WwQq0k0&iradid=275988&irpid=370045&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_370045&utm_medium=affiliate&utm_source=impact_radius) by [TimiStudio](https://codecanyon.net/user/timistudio)
-
-[Vuexy Admin Pages](https://themeforest.net/item/vuexy-vuejs-html-laravel-admin-dashboard-template/23328599?irgwc=1&clickid=2GZUCg24MxyPRNwRP7QjnXbsUkFwbe0SWwQq0k0&iradid=275988&irpid=1244113&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&mp_value1=&utm_campaign=af_impact_radius_1244113&utm_medium=affiliate&utm_source=impact_radius) by [pixinvent](https://themeforest.net/user/pixinvent)
-
-[Appilo Wordpress](https://themeforest.net/item/appilo-app-landing-wordpress-theme/22358661) by [themexriver](https://themeforest.net/user/themexriver)
-
 <hr/>
 
 - 🔭 I’m currently working on ...
