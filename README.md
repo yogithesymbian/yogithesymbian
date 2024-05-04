@@ -7,7 +7,7 @@ If You Like This Repository Then *****, Support The Developers.
 <h1 align="center">Hi 👋, I'm Yogi</h1>
 Here are some of the things clients have said about my work:
 
-- ⚡️ “Evan & his team are the real deal!” - E-commerce client with $20M revenue, whose website I built in 3 weeks.
+- ⚡️ “Yogi A.W & his team are the real deal!” - E-commerce client with $20M revenue, whose website I built in 3 weeks.
 - ⚡️ “[QUOTE #2 FROM PAST WORK]” - Large retailer with $50M revenue, total website overhaul.
 - ⚡️ “[QUOTE #3 FROM PAST WORK]” - $100M consumer brand, 30 landing pages built.
 
@@ -37,20 +37,12 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 ![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
 
-![status](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogithesymbian&theme=vue)
-![commit](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yogithesymbian&theme=vue&utcOffset=+08)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogithesymbian&langs_count=16&layout=compact&hide=javascript,html,css,php,handlebars,jupyter+notebook,blade,tsql,shell,ruby,c,ejs,matlab,cmake)
-![h1m](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogithesymbian&theme=vue&exclude=Html,Css,Php,Handlebars,Jupyter+Notebook,Blade,Tsql,Shell,Ruby,C,Ejs,Matlab,Cmake)
 
 <h1 align="center">⚡ focused:</h1
 
 <span align="center">
 
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
-[![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)  
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 </span>
@@ -72,12 +64,16 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 
 
-<h4 align="center">🌱 longtime not code:</h4>
+<h4 align="center">🌱 Longtime not code:</h4>
 
 <span align="center">
 
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+[![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
+[![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](#)
 [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
   
