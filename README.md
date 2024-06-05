@@ -32,7 +32,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aw.yogi)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://scodeid.blogspot.com/)
 
-[old_web_profile](https://yodev.my.id)
+[sysyaw](https://www.sysyaw.tech)
 
 
 ![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
