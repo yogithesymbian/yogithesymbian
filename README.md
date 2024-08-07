@@ -20,7 +20,9 @@ Here are some of the things clients have said about my work:
 
 </div>
 
- <h3 align="center">🔭 Top skills<br/>
+<details align="center">
+    <summary> <samp>&#9776; Don't Click</samp></summary>
+<h3 align="center">🔭 Top skills<br/>
 Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 
 #
@@ -104,3 +106,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
+</details>
+<br>
+
