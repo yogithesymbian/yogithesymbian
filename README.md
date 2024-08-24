@@ -18,6 +18,8 @@ Here are some of the things clients have said about my work:
  
 ![visitor-counter](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
 
+![Alt](https://repobeats.axiom.co/api/embed/3137477ae23cad22d596508208970f0c2358d962.svg "Repobeats analytics image")
+
 </div>
 
 <details align="center">
