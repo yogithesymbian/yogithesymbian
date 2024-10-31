@@ -2,6 +2,8 @@ If You Like This Repository Then *****, Support The Developers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
+<img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img> 
+
 <hr/>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yogi</h1>
@@ -29,7 +31,6 @@ Here are some of the things clients have said about my work:
         <td align="center" width="50%">
             <img src="https://avatars.githubusercontent.com/u/44521335" alt="abyssal" width="150px"></img>
             <p><strong>Thanks For letting me <strike>steal your code</strike> I’ll <a href="https://github.com"> make sure to credit whatever mysterious name you go by now</a> as a reference.</strong></p>
-            <img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img> 
         </td>
     </tr>
 </table>
