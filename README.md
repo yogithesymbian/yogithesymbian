@@ -29,6 +29,7 @@ Here are some of the things clients have said about my work:
         <td align="center" width="50%">
             <img src="https://avatars.githubusercontent.com/u/44521335" alt="abyssal" width="150px"></img>
             <p><strong>Thanks For letting me <strike>steal your code</strike> I’ll <a href="https://github.com"> make sure to credit whatever mysterious name you go by now</a> as a reference.</strong></p>
+            <img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img> 
         </td>
     </tr>
 </table>
