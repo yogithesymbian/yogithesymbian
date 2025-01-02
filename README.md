@@ -23,8 +23,8 @@ Here are some of the things clients have said about my work:
 
 </div>
 
-<details align="center">
-    <summary> <samp>------------> &#9776; Don't Click HERE <---------- 
+<details align="center" open>
+    <summary> <samp>------------> &#9776; Click HERE <---------- </samp> </summary>
      <br/>
 <table>
     <tr>
