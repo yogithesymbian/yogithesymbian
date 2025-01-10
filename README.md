@@ -35,8 +35,8 @@ Here are some of the things clients have said about my work:
     </tr>
 </table>
     </samp></summary>
-<h3 align="center">🔭 Top skills<br/>
-Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
+<s><h3 align="center">🔭 Top skills<br/>
+Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 
 #
 
@@ -61,7 +61,6 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3>
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-
 </span>
 
 
@@ -124,3 +123,12 @@ Here are some ideas to get you started:
 </details>
 <br>
 
+Imagine a developer applying for a position at a tech company. The hiring manager reviews their resume and notices they’ve worked with Python for data analysis, JavaScript for web development, Java for Android apps, and even Go for backend systems. Curious, the manager asks during the interview, "Why so many languages?"  
+
+The developer responds:  
+"In my previous roles, I’ve encountered a variety of challenges across different industries. At one company, I used Python to analyze customer data and improve marketing strategies. In another, I developed a web app with JavaScript to enhance the user experience. For a logistics startup, I built an Android app using Java to streamline their operations, and at a fintech company, I implemented a high-performance backend in Go to handle millions of transactions.  
+
+These experiences taught me that the tool is secondary—what matters is solving the problem effectively. My adaptability means I can work with whatever language your team uses, focusing on delivering solutions rather than getting stuck on syntax. My diverse experience shows that I’m not just a coder—I’m a problem solver."  
+
+This aligns with the quote:  
+"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code. Mastery isn't about knowing one language; it's about using the right language to tackle real-world challenges effectively."
