@@ -6,7 +6,7 @@ If You Like This Repository Then *****, Support The Developers.
 
 <hr/>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yogi</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yogi Powered By Strong Ai</h1>
 Here are some of the things clients have said about my work:
 
 - ⚡️ “Yogi A.W & his team are the real deal!” - E-commerce client with $20M revenue, whose website I built in 3 weeks.
