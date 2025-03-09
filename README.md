@@ -1,5 +1,12 @@
 ![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian)
+```
+➜  npm install -g yogithesymbian
 
+added 1 package in 264ms
+➜  yogithesymbian
+Welcome to yogithesymbian special page!
+➜  test 
+```
 If You Like This Repository Then **\***, Support The Developers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
