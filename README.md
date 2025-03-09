@@ -24,7 +24,7 @@ Here are some of the things clients have said about my work:
 </div>
 
 <details align="center" open>
-    <summary> <samp>------------> &#9776; Don't Click HERE <---------- </samp> </summary>
+    <summary> <samp>------------> &#9776; Don't Click here <---------- </samp> </summary>
      <br/>
 <table>
     <tr>
