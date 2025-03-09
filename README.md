@@ -1,8 +1,10 @@
-If You Like This Repository Then *****, Support The Developers.
+![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian)
+
+If You Like This Repository Then **\***, Support The Developers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
-<img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img> 
+<img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img>
 
 <hr/>
 
@@ -15,11 +17,9 @@ Here are some of the things clients have said about my work:
 
 (Note: This is just sample text.) <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif"/>
 
-
 <div align="center">
- 
-![visitor-counter](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
 
+![visitor-counter](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
 
 </div>
 
@@ -41,7 +41,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 #
 
 <span align="center">
- 
+
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogi-arif-widodo/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aw.yogi)
@@ -49,9 +49,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 
 [sysyaw](https://www.sysyaw.tech)
 
-
 ![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
-
 
 <h1 align="center">⚡ focused:</h1
 
@@ -63,22 +61,19 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 [![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 </span>
 
-
 #
 
 <h4 align="center">💻 Workspace</h4>
 <span align="center">
-  
+
 [![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg)
 [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
 
 <span align="center"> <img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" lazy height="150" width="120" align="center"/> </span>
-    
+
 </span>
 
 #
-
-
 
 <h4 align="center">🌱 Longtime not code:</h4>
 
@@ -90,7 +85,6 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-  
 
 <hr/>
 
@@ -102,7 +96,6 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 - 📫 How to reach me: ...
 - 😄 Pronouns: yogithesymbian
 - ⚡ Fun fact: HRD Dreams
-
 
 <!--
 **yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -119,16 +112,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 
 </details>
 <br>
 
-Imagine a developer applying for a position at a tech company. The hiring manager reviews their resume and notices they’ve worked with Python for data analysis, JavaScript for web development, Java for Android apps, and even Go for backend systems. Curious, the manager asks during the interview, "Why so many languages?"  
+Imagine a developer applying for a position at a tech company. The hiring manager reviews their resume and notices they’ve worked with Python for data analysis, JavaScript for web development, Java for Android apps, and even Go for backend systems. Curious, the manager asks during the interview, "Why so many languages?"
 
-The developer responds:  
-"In my previous roles, I’ve encountered a variety of challenges across different industries. At one company, I used Python to analyze customer data and improve marketing strategies. In another, I developed a web app with JavaScript to enhance the user experience. For a logistics startup, I built an Android app using Java to streamline their operations, and at a fintech company, I implemented a high-performance backend in Go to handle millions of transactions.  
+The developer responds:
+"In my previous roles, I’ve encountered a variety of challenges across different industries. At one company, I used Python to analyze customer data and improve marketing strategies. In another, I developed a web app with JavaScript to enhance the user experience. For a logistics startup, I built an Android app using Java to streamline their operations, and at a fintech company, I implemented a high-performance backend in Go to handle millions of transactions.
 
-These experiences taught me that the tool is secondary—what matters is solving the problem effectively. My adaptability means I can work with whatever language your team uses, focusing on delivering solutions rather than getting stuck on syntax. My diverse experience shows that I’m not just a coder—I’m a problem solver."  
+These experiences taught me that the tool is secondary—what matters is solving the problem effectively. My adaptability means I can work with whatever language your team uses, focusing on delivering solutions rather than getting stuck on syntax. My diverse experience shows that I’m not just a coder—I’m a problem solver."
 
-This aligns with the quote:  
+This aligns with the quote:
 "A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code. Mastery isn't about knowing one language; it's about using the right language to tackle real-world challenges effectively."

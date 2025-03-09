@@ -13,7 +13,8 @@
     "standard-version": "^9.5.0"
   },
   "scripts": {
-    "commit": "cz"
+    "commit": "cz",
+    "release": "semantic-release"
   },
   "husky": {
     "hooks": {
