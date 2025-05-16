@@ -9,8 +9,6 @@ If You Like This Repository Then **\***, Support The Developers.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
-<img src="https://www.sysyaw.tech/meow.jpeg" alt="abyssal" width="150px"></img>
-
 <hr/>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yogi Powered By Strong Ai</h1>
@@ -52,7 +50,7 @@ Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aw.yogi)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://scodeid.blogspot.com/)
 
-[sysyaw](https://www.sysyaw.tech)
+[sysyaw space](https://www.sysyaw.space)
 
 ![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
 
