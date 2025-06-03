@@ -1,3 +1,9 @@
+<!--
+/**
+ * @cgr Generate a sequence diagram for this checkout process.
+ * Include description between Stack Skills, Badge, and Client Say
+ */
+-->
 # Hi there! 👋 I'm Yogi - Full-Stack Problem Solver
 
 [![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian?style=flat-square&color=blue)](https://github.com/yogithesymbian/yogithesymbian)
