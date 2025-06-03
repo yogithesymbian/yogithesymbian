@@ -44,7 +44,7 @@ yogithesymbian
 <br><em>E-commerce</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" alt="Revenue $3.75k badge"/>
+<img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" alt="Revenue $3.75K badge"/>
 <br><strong>"6 landing pages delivered"</strong>
 <br><em>Consumer Brand - Perfect execution</em>
 </td>
@@ -81,7 +81,7 @@ yogithesymbian
 ## 💡 My Development Philosophy
 
 <div align="center">
-<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" alt="Revenue $10B badge"/>
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" alt="Cat typing animation"/>
 </div>
 
 > **"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code."**
