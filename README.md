@@ -34,17 +34,17 @@ yogithesymbian
 <tr>
 
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Revenue-$10B-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Revenue-$10B-success?style=for-the-badge" alt="Revenue $10B badge" />
 <br><strong>"Complete digital transformation"</strong>
 <br><em>Large scale - Total overhaul</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Revenue-Rp5B-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Revenue-Rp5B-success?style=for-the-badge" alt="Revenue $5B badge"/>
 <br><strong>"Yogi & his team are thereal deal!"</strong>
 <br><em>E-commerce</em>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" alt="Revenue $3.75k badge"/>
 <br><strong>"6 landing pages delivered"</strong>
 <br><em>Consumer Brand - Perfect execution</em>
 </td>
@@ -72,7 +72,7 @@ yogithesymbian
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-<br/>Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)
+<br/>Provider • Bloc • Getx • Riverpod • Domain-Driven Design (DDD)
 
 </div>
 
@@ -81,7 +81,7 @@ yogithesymbian
 ## 💡 My Development Philosophy
 
 <div align="center">
-<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" />
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" alt="Revenue $10B badge"/>
 </div>
 
 > **"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code."**
@@ -89,7 +89,7 @@ yogithesymbian
 **The Multi-Language Story:**
 Imagine a developer applying for a position at a tech company. The hiring manager asks, "Why so many languages?"
 
-*"Each language served a purpose: Python for data analysis to improve marketing strategies, JavaScript/Typescript for enhanced user experiences, Java/Kotlin for streamlined mobile operations, and NodeJS/Go for high-performance backends handling millions of transactions. These experiences taught me that the tool is secondary—what matters is solving the problem effectively."*
+*"Each language served a purpose: Python for data analysis to improve marketing strategies, JavaScript/Typescript for enhanced user experiences, Java/Kotlin for streamlined mobile operations, and Node.js/Go for high-performance backends handling millions of transactions. These experiences taught me that the tool is secondary—what matters is solving the problem effectively."*
 
 ---
 
@@ -99,10 +99,10 @@ Imagine a developer applying for a position at a tech company. The hiring manage
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" width="200" style="border-radius: 10px;" />
+<img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" width="200" style="border-radius: 10px;" alt="Yogi’s workspace"/>
 <br>
-<img src="https://img.shields.io/badge/Apple_Silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Apple_Silicon-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Silicon badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira badge" />
 
 </td>
 </tr>
@@ -114,17 +114,17 @@ Imagine a developer applying for a position at a tech company. The hiring manage
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=github_dark" alt="GitHub profile details card"/>
 </div>
 
 <div align="center">
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=yogithesymbian&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=yogithesymbian&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </td>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yogithesymbian&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yogithesymbian&theme=radical&hide_border=true" alt="GitHub streak stats"/>
 </td>
 </tr>
 </table>
