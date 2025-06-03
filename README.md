@@ -26,20 +26,21 @@ yogithesymbian
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Revenue-Rp5B-success?style=for-the-badge" />
-<br><strong>"Yogi A.W & his team are the real deal!"</strong>
-<br><em>E-commerce client</em>
-</td>
+
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Revenue-$10B-success?style=for-the-badge" />
 <br><strong>"Complete digital transformation"</strong>
 <br><em>Large scale - Total overhaul</em>
 </td>
 <td align="center" width="33%">
+<img src="https://img.shields.io/badge/Revenue-Rp5B-success?style=for-the-badge" />
+<br><strong>"Yogi & his team are thereal deal!"</strong>
+<br><em>E-commerce</em>
+</td>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" />
 <br><strong>"6 landing pages delivered"</strong>
-<br><em>Consumer brand - Perfect execution</em>
+<br><em>Consumer Brand - Perfect execution</em>
 </td>
 </tr>
 </table>
@@ -65,7 +66,7 @@ yogithesymbian
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
 [![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)
+<br/>Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)
 
 </div>
 
