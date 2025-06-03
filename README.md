@@ -1,129 +1,212 @@
-![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian)
+# Hi there! 👋 I'm Yogi - Full-Stack Problem Solver
+
+[![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian?style=flat-square&color=blue)](https://github.com/yogithesymbian/yogithesymbian)
+[![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian)
+[![NPM Package](https://img.shields.io/badge/npm-yogithesymbian-red?style=flat-square&logo=npm)](https://www.npmjs.com/package/yogithesymbian)
+[![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/yogithesymbian/yogithesymbian?utm_source=oss&utm_medium=github&utm_campaign=yogithesymbian%2Fyogithesymbian&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)](#)
+[![Crates.io yo_netwatch](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Problem+Solver;AI-Powered+Solutions;Building+Digital+Experiences" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 Quick Install & Try
+
+```bash
+npm install -g yogithesymbian
+yogithesymbian
+# Welcome to yogithesymbian special page!
 ```
-➜  npm install -g yogithesymbian
-added 1 package in 264ms
-➜  yogithesymbian
-Welcome to yogithesymbian special page!
-```
-If You Like This Repository Then **\***, Support The Developers.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
+## 💼 What Clients Say
 
-<hr/>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Revenue-Rp5B-success?style=for-the-badge" />
+<br><strong>"Yogi A.W & his team are the real deal!"</strong>
+<br><em>E-commerce client</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Revenue-$10B-success?style=for-the-badge" />
+<br><strong>"Complete digital transformation"</strong>
+<br><em>Large scale - Total overhaul</em>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Revenue-$3.75K-success?style=for-the-badge" />
+<br><strong>"6 landing pages delivered"</strong>
+<br><em>Consumer brand - Perfect execution</em>
+</td>
+</tr>
+</table>
+    
+</div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Yogi Powered By Strong Ai</h1>
-Here are some of the things clients have said about my work:
+---
 
-- ⚡️ “Yogi A.W & his team are the real deal!” - E-commerce client with $20M revenue, whose website I built in 3 weeks.
-- ⚡️ “[QUOTE #2 FROM PAST WORK]” - Large retailer with $50M revenue, total website overhaul.
-- ⚡️ “[QUOTE #3 FROM PAST WORK]” - $100M consumer brand, 30 landing pages built.
-
-(Note: This is just sample text.) <img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif"/>
+## 🎯 Current Focus & Expertise
 
 <div align="center">
 
-![visitor-counter](https://komarev.com/ghpvc/?username=yogithesymbian&color=green)
+### 🔥 Primary Stack
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+### 🛠 Previous Expertise (Still Sharp!)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/)
+[![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)
 
 </div>
 
-<details align="center" open>
-    <summary> <samp>------------> &#9776; Don't Click here <---------- </samp> </summary>
-     <br/>
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" />
+</div>
+
+> **"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code."**
+
+**The Multi-Language Story:**
+Imagine a developer applying for a position at a tech company. The hiring manager asks, "Why so many languages?"
+
+*"Each language served a purpose: Python for data analysis to improve marketing strategies, JavaScript/Typescript for enhanced user experiences, Java/Kotlin for streamlined mobile operations, and NodeJS/Go for high-performance backends handling millions of transactions. These experiences taught me that the tool is secondary—what matters is solving the problem effectively."*
+
+---
+
+## 🏢 My Workspace
+
+<div align="center">
 <table>
-    <tr>
-        <td align="center" width="50%">
-            <img src="https://github.com/user-attachments/assets/c7408c94-22a2-4ad7-b65b-d5126e4d4adf" alt="abyssal" width="150px"></img>
-            <p><strong>Thanks For letting me <strike>steal your code</strike> I’ll <a href="https://github.com"> make sure to credit whatever mysterious name you go by now</a> as a reference.</strong></p>
-        </td>
-    </tr>
+<tr>
+<td align="center">
+<img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" width="200" style="border-radius: 10px;" />
+<br>
+<img src="https://img.shields.io/badge/Apple_Silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+
+</td>
+</tr>
 </table>
-    </samp></summary>
-<s><h3 align="center">🔭 Top skills<br/>
-Provider • Bloc • Getx • Riverpoad • Domain-Driven Design (DDD)</h3></s>
+</div>
 
-#
+---
 
-<span align="center">
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=github_dark" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=yogithesymbian&show_icons=true&theme=radical&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yogithesymbian&theme=radical&hide_border=true" />
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogi-arif-widodo/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aw.yogi)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://scodeid.blogspot.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogi-arif-widodo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aw.yogi)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://scodeid.blogspot.com/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sysyaw.space)
 
-[sysyaw space](https://www.sysyaw.space)
+### 💬 Currently Open For:
+- 🚀 Full-stack development projects
+- 🤝 Collaboration on innovative solutions
+- 📈 Scaling businesses through technology
+- 🎯 AI-powered application development
 
-![hm](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=vue)
+</div>
 
-<h1 align="center">⚡ focused:</h1
+---
 
-<span align="center">
+## ☕ Support My Work
 
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![VueJS Badge](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](#)
-[![NodeJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-</span>
+<div align="center">
 
-#
+If you find my projects helpful, consider supporting my open-source contributions!
 
-<h4 align="center">💻 Workspace</h4>
-<span align="center">
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3LMURG)
 
-[![My Device](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg)
-[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](#)
+</div>
 
-<span align="center"> <img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpeg" lazy height="150" width="120" align="center"/> </span>
+---
 
-</span>
+<div align="center">
 
-#
+**💼 Pronouns:** yogithesymbian  
+**⚡ Fun Fact:** HRD Dreams & Building the Future  
+**🎯 Mission:** Turning complex problems into elegant solutions
 
-<h4 align="center">🌱 Longtime not code:</h4>
-
-<span align="center">
-
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](#)
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-[![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-
-<hr/>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: yogithesymbian
-- ⚡ Fun fact: HRD Dreams
-
-<!--
-**yogithesymbian/yogithesymbian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-</details>
+<details>
+<summary>🎉 Thanks for visiting my profile!</summary>
 <br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/c7408c94-22a2-4ad7-b65b-d5126e4d4adf" alt="Thank you" width="150px">
+<p><strong>Thanks for letting me share my journey with you!</strong></p>
+<p><em>Ready to build something amazing together? Let's connect!</em></p>
+</div>
+</details>
 
-Imagine a developer applying for a position at a tech company. The hiring manager reviews their resume and notices they’ve worked with Python for data analysis, JavaScript for web development, Java for Android apps, and even Go for backend systems. Curious, the manager asks during the interview, "Why so many languages?"
+</div>
 
-The developer responds:
-"In my previous roles, I’ve encountered a variety of challenges across different industries. At one company, I used Python to analyze customer data and improve marketing strategies. In another, I developed a web app with JavaScript to enhance the user experience. For a logistics startup, I built an Android app using Java to streamline their operations, and at a fintech company, I implemented a high-performance backend in Go to handle millions of transactions.
+---
 
-These experiences taught me that the tool is secondary—what matters is solving the problem effectively. My adaptability means I can work with whatever language your team uses, focusing on delivering solutions rather than getting stuck on syntax. My diverse experience shows that I’m not just a coder—I’m a problem solver."
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
 
-This aligns with the quote:
-"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code. Mastery isn't about knowing one language; it's about using the right language to tackle real-world challenges effectively."
+```mermaid
+sequenceDiagram
+    participant Visitor
+    participant GitHubProfile
+    participant CLI_Tool
+    participant Client
+    participant Yogi
+
+    Visitor->>GitHubProfile: Visits yogithesymbian
+    GitHubProfile-->>Visitor: Shows badges, stack, and philosophy
+    Visitor->>GitHubProfile: Reads expertise and testimonials
+    Visitor->>CLI_Tool: Tries `npm install -g yogithesymbian`
+    CLI_Tool-->>Visitor: Outputs welcome message
+
+    alt Interested in Collaboration
+        Visitor->>Client: Shares profile with decision makers
+        Client->>Yogi: Contacts via Upwork/LinkedIn
+        Yogi-->>Client: Discusses project requirements
+        Client->>Yogi: Hires for project
+        Yogi-->>Client: Delivers scalable AI/digital solution
+    end
+
+    alt Just Browsing
+        Visitor-->>GitHubProfile: Views GitHub stats
+        Visitor-->>GitHubProfile: Follows or stars repo
+    end
+
+    Note over Visitor, GitHubProfile: Outcome: Inspired, Connected, or Converted
+```
