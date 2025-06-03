@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/yogithesymbian/yogithesymbian/compare/v1.1.0...v1.1.1) (2025-06-03)
+
+
+### Bug Fixes
+
+* apply missing CodeRabbit AI suggestion that was unintentionally skipped ([8a0461c](https://github.com/yogithesymbian/yogithesymbian/commit/8a0461c6b1b974709d6fee892d548a922b29382e))
+
 # [1.1.0](https://github.com/yogithesymbian/yogithesymbian/compare/v1.0.0...v1.1.0) (2025-03-09)
 
 
