@@ -225,3 +225,33 @@ flowchart TD
     DataStore1 -->|Return result| Process1
     Process1 -->|Login result| ExternalUser
 ```
+
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE_ITEM : contains
+    PRODUCT ||--|{ LINE_ITEM : includes
+    BaseModelORMSequelize {
+        int id
+        datetime created_at
+        datetime updated_at
+        datetime deleted_at
+    }
+
+    CUSTOMER {
+        name string 
+        email string 
+    }
+    ORDER {
+        id int 
+        timestampt string
+    }
+    LINE_ITEM {
+        int quantity
+    }
+    PRODUCT {
+        name string 
+        price float 
+    }
+
+```
