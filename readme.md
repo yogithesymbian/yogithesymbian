@@ -214,17 +214,6 @@ sequenceDiagram
 
     Note over Visitor, GitHubProfile: Outcome: Inspired, Connected, or Converted
 ```
-```mermaid
-flowchart TD
-    ExternalUser[External Entity: User]
-    Process1[Process: Login System]
-    DataStore1[[Data Store: User DB]]
-
-    ExternalUser -->|Enter credentials| Process1
-    Process1 -->|Validate user| DataStore1
-    DataStore1 -->|Return result| Process1
-    Process1 -->|Login result| ExternalUser
-```
 
 ```mermaid
 erDiagram
