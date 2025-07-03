@@ -4,7 +4,7 @@
  * Include description between Stack Skills, Badge, and Client Say
  */
 -->
-# Hi there! 👋 I'm Yogi - Full-Stack Problem Solver
+# 👋! I'm Yogi -  I'm still learning and open to any improvements.
 
 [![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian?style=flat-square&color=blue)](https://github.com/yogithesymbian/yogithesymbian)
 [![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian)
@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Problem+Solver;AI-Powered+Solutions;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+the+opportunity+!;Problem+Solver;AI-Powered+Solutions;Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -111,27 +111,6 @@ Imagine a developer applying for a position at a tech company. The hiring manage
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yogithesymbian&theme=github_dark" alt="GitHub profile details card"/>
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=yogithesymbian&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yogithesymbian&theme=radical&hide_border=true" alt="GitHub streak stats"/>
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -181,39 +160,6 @@ If you find my projects helpful, consider supporting my open-source contribution
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-```mermaid
-sequenceDiagram
-    participant Visitor
-    participant GitHubProfile
-    participant CLI_Tool
-    participant Client
-    participant Yogi
-
-    Visitor->>GitHubProfile: Visits yogithesymbian
-    GitHubProfile-->>Visitor: Shows badges, stack, and philosophy
-    Visitor->>GitHubProfile: Reads expertise and testimonials
-    Visitor->>CLI_Tool: Tries `npm install -g yogithesymbian`
-    CLI_Tool-->>Visitor: Outputs welcome message
-
-    alt Interested in Collaboration
-        Visitor->>Client: Shares profile with decision makers
-        Client->>Yogi: Contacts via Upwork/LinkedIn
-        Yogi-->>Client: Discusses project requirements
-        Client->>Yogi: Hires for project
-        Yogi-->>Client: Delivers scalable AI/digital solution
-    end
-
-    alt Just Browsing
-        Visitor-->>GitHubProfile: Views GitHub stats
-        Visitor-->>GitHubProfile: Follows or stars repo
-    end
-
-    Note over Visitor, GitHubProfile: Outcome: Inspired, Connected, or Converted
-```
 
 ```mermaid
 erDiagram
