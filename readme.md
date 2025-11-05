@@ -4,6 +4,11 @@
  * Include description between Stack Skills, Badge, and Client Say
  */
 -->
+
+<div align="center">
+<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" alt="Cat typing animation"/>
+</div>
+
 # 👋! I'm Yogi -  I'm still learning and open to any improvements.
 
 [![GitHub release](https://img.shields.io/github/v/release/yogithesymbian/yogithesymbian?style=flat-square&color=blue)](https://github.com/yogithesymbian/yogithesymbian)
@@ -18,16 +23,6 @@
 </div>
 
 ---
-
-## 🚀 Quick Install & Try
-
-```bash
-npm install -g yogithesymbian
-yogithesymbian
-# Welcome to yogithesymbian special page!
-```
-
-## 💼 What Clients Say
 
 <div align="center">
 <table>
@@ -55,17 +50,22 @@ yogithesymbian
 
 ---
 
-## 🎯 Current Focus & Expertise
+## 🎯 Keep customer
+I dont chase every tool to look smart. I choose what solves real needs.Technology is not a badge for me,but a way to 'keep customers' valued and served. documentation is easy to read for built apps with new tech or focus on solution instead of new tech 
+> ~ full-stack department & software engineer
 
 <div align="center">
 
 ### 🔥 Primary Stack
+<strong>depends on requirements</strong>
+
+---
+
+### 🛠 Previous Expertise (Still Sharp!)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-
-### 🛠 Previous Expertise (Still Sharp!)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -78,20 +78,6 @@ yogithesymbian
 
 ---
 
-## 💡 My Development Philosophy
-
-<div align="center">
-<img src="https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif" width="200" alt="Cat typing animation"/>
-</div>
-
-> **"A developer with real projects across diverse languages proves they don't rely on a single tool—they adapt to any environment, focusing on solving problems, not just writing code."**
-
-**The Multi-Language Story:**
-Imagine a developer applying for a position at a tech company. The hiring manager asks, "Why so many languages?"
-
-*"Each language served a purpose: Python for data analysis to improve marketing strategies, JavaScript/Typescript for enhanced user experiences, Java/Kotlin for streamlined mobile operations, and Node.js/Go for high-performance backends handling millions of transactions. These experiences taught me that the tool is secondary—what matters is solving the problem effectively."*
-
----
 
 ## 🏢 My Workspace
 
@@ -114,7 +100,10 @@ Imagine a developer applying for a position at a tech company. The hiring manage
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
+  
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mlllon_dslil)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogi-arif-widodo/)
 
@@ -128,7 +117,7 @@ Imagine a developer applying for a position at a tech company. The hiring manage
 
 ---
 
-## ☕ Support My Work
+## ☕ Support My Work | Eat for Energy
 
 <div align="center">
 
