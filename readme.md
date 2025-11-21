@@ -85,7 +85,9 @@ I dont chase every tool to look smart. I choose what solves real needs.Technolog
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/yogithesymbian/yogithesymbian/blob/main/workspace.jpg" width="200" style="border-radius: 10px;" alt="Yogi’s workspace"/>
+<img src="https://github.com/user-attachments/assets/6fe2b979-3b76-4a2a-85af-499459394e8f" width="200" style="border-radius: 10px;" alt="Yogi’s workspace"/>
+
+  
 <br>
 <img src="https://img.shields.io/badge/Apple_Silicon-333333?style=for-the-badge&logo=apple&logoColor=white" alt="Apple Silicon badge"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira badge" />
