@@ -23,6 +23,74 @@
 
 ---
 
+## 💬 Currently Open For
+
+<div align="center">
+
+| 🚀 | 🤝 | 📈 | 🤖 |
+|:---:|:---:|:---:|:---:|
+| **Full-Stack Development** | **Collaboration** | **Business Scaling** | **AI-Powered Apps** |
+| End-to-end solutions | Innovative partnerships | Growth through tech | Intelligent solutions |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
+
+### Ready to build something amazing together?
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+**If you find my projects helpful, consider supporting my open-source contributions!**
+
+[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/ncp/payment/RDWNWDLVR6674)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/R6R3LMURG)
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/yogithesymbian)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📌 Quick Info
+
+**💼 Pronouns:** yogithesymbian  
+**⚡ Fun Fact:** secret  
+**🎯 Mission:** Turning complex problems into elegant solutions
+
+---
+
+<details>
+<summary>🎉 Thanks for visiting!</summary>
+<br>
+
+<img src="https://github.com/user-attachments/assets/c7408c94-22a2-4ad7-b65b-d5126e4d4adf" alt="Thank you" width="150px">
+
+**Thanks for letting me share my journey with you!**
+
+*Ready to build something amazing together? Let's connect!*
+
+</details>
+
+<sub>⭐ Star my repos if you find them useful! ⭐</sub>
+
+</div>
+
+--- 
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -109,69 +177,3 @@
 
 </div>
 
----
-
-## 💬 Currently Open For
-
-<div align="center">
-
-| 🚀 | 🤝 | 📈 | 🤖 |
-|:---:|:---:|:---:|:---:|
-| **Full-Stack Development** | **Collaboration** | **Business Scaling** | **AI-Powered Apps** |
-| End-to-end solutions | Innovative partnerships | Growth through tech | Intelligent solutions |
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
-
-### Ready to build something amazing together?
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-**If you find my projects helpful, consider supporting my open-source contributions!**
-
-[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/ncp/payment/RDWNWDLVR6674)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/R6R3LMURG)
-[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/yogithesymbian)
-
-</div>
-
----
-
-<div align="center">
-
-### 📌 Quick Info
-
-**💼 Pronouns:** yogithesymbian  
-**⚡ Fun Fact:** HRD Dreams & Building the Future  
-**🎯 Mission:** Turning complex problems into elegant solutions
-
----
-
-<details>
-<summary>🎉 Thanks for visiting!</summary>
-<br>
-
-<img src="https://github.com/user-attachments/assets/c7408c94-22a2-4ad7-b65b-d5126e4d4adf" alt="Thank you" width="150px">
-
-**Thanks for letting me share my journey with you!**
-
-*Ready to build something amazing together? Let's connect!*
-
-</details>
-
-<sub>⭐ Star my repos if you find them useful! ⭐</sub>
-
-</div>
