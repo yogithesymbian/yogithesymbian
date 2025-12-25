@@ -103,7 +103,7 @@
 ![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/yogi-arif-widodo/)
 
 <img src="https://github.com/user-attachments/assets/3bcbd18a-4882-4949-ab29-10bdb73cbc0e" width="300" alt="Git Wrapped"/>
 
