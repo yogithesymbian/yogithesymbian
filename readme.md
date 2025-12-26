@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Yogi - Software Engineer Newbie
+# 👋 Hi, I'm Yogi </> 
+Titles dont mean anything, Try their best.
 
 <div align="center">
 
 ![Cat Typing](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+the+opportunity+!;Problem+Solver;AI-Powered+Solutions;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=3B82F6&center=true&vCenter=true&width=1100&lines=Documented+by+8+Years+of+Passion+and+Innovation;still+newbie+like+a+drop+of+water+in+the+middle+of+the+ocean;Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 
@@ -40,7 +41,7 @@
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0170c41ef45390f246?mp_source=share)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 
 ### Ready to build something amazing together?
 
