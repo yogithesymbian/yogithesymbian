@@ -11,7 +11,6 @@ Titles dont mean anything, Try their best.
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian)
-[![NPM Package](https://img.shields.io/badge/npm-yogithesymbian-red?style=flat-square&logo=npm)](https://www.npmjs.com/package/yogithesymbian)
 [![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
 
 </div>
