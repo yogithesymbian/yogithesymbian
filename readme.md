@@ -42,19 +42,6 @@ Titles dont mean anything, Try their best.
 
 ---
 
-## 💬 Currently Open For
-
-<div align="center">
-
-| 🚀 | 🤝 | 📈 | 🤖 |
-|:---:|:---:|:---:|:---:|
-| **Full-Stack Development** | **Collaboration** | **Business Scaling** | **AI-Powered Apps** |
-| End-to-end solutions | Innovative partnerships | Growth through tech | Intelligent solutions |
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -82,14 +69,6 @@ Titles dont mean anything, Try their best.
 ---
 
 <div align="center">
-
-### 📌 Quick Info
-
-**💼 Pronouns:** yogithesymbian  
-**⚡ Fun Fact:** secret  
-**🎯 Mission:** Turning complex problems into elegant solutions
-
----
 
 ## 🛠️ Tech Arsenal
 
