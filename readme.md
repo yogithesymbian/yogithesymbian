@@ -1,5 +1,13 @@
-# 👋 Hi, I'm Yogi </> 
-Titles dont mean anything, Try their best.
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=28316296" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28316296&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @yogithesymbian" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28316296&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <div align="center">
 
@@ -36,11 +44,13 @@ Titles dont mean anything, Try their best.
 
 ---
 
+<!-- 
 ## 🔥 Primary Stack
 
 > **Depends on requirements** - I choose what solves real needs, not what looks impressive on paper.
 
 ---
+-->
 
 ## 🤝 Let's Connect
 
@@ -85,45 +95,10 @@ Titles dont mean anything, Try their best.
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages & Frameworks
-![Rust](https://img.shields.io/badge/Rust-F96854?style=for-the-badge&logo=rust&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](#)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)](#)
-[![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
-
 ### State Management & Architecture
 `Provider` • `Bloc` • `Getx` • `Riverpod` • `Domain-Driven Design (DDD)`
 
 </div>
-
----
-
-## 🎯 Philosophy: Keep Customer First
-
-> *"I don't chase every tool to look smart. I choose what solves real needs. Technology is not a badge for me, but a way to keep customers valued and served. Documentation is easy to read for built apps - focus on solutions, not just shiny new tech."*
-> 
-> **— Full-stack department & software engineer**
 
 ---
 
@@ -166,7 +141,8 @@ Titles dont mean anything, Try their best.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
 
+<!--
 <img src="https://github.com/user-attachments/assets/3bcbd18a-4882-4949-ab29-10bdb73cbc0e" width="300" alt="Git Wrapped"/>
-
+-->
 </div>
 
