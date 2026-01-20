@@ -1,4 +1,4 @@
-![GitHub Stats](https://git-hacker-stats-generator.vercel.app/api/stats?username=yogithesymbian&theme=hacker)
+![GitHub Stats](https://git-hacker-stats-generator.vercel.app/api/stats?username=yogithesymbian&theme=emerald)
 
 <div align="center">
 
