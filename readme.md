@@ -44,13 +44,15 @@
 ## Current Projects
 - 🧩 **[YoCatetin](https://yocatetin.com)** - AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
 - 🌠 **[Yo WebP Converter](https://yo-license.pro)** - Fast, offline Rust conversion. Optimize images without leaving VS Code.
-- 📡 **[Yo Netwatch](https://github.com/yogithesymbian/yo_netwatch)** - A reactive realtime internet connection status checker.
+- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - A reactive realtime internet connection status checker.
 
 ## Legacy Projects
-- 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - Fork Laraspace data logistic
-- 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - Connection is matter
-- 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - Scrapping data coronaviurs the base lab
-- 🤖 **[Kotlin Geneartor](https://gist.github.com/yogithesymbian/b476ef3640cb4f1343ef3816064be8be)** - Android Studio Generator MVVM Crud API Integration Automatically
+- 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - For VIBE Coder who fear mini deployment 'untested' x 'untrusted'
+- 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - A logistics-focused fork of Laraspace for shipment management.
+- 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - A collection of networking and penetration testing tools.
+- 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - Python-based scraper for Indonesian COVID-19 laboratory data.
+- 🤖 **[Kotlin Geneartor](https://gist.github.com/yogithesymbian/b476ef3640cb4f1343ef3816064be8be)** - Android Studio script for automated MVVM CRUD and API integration.
+- 🔥 **[API Sequelize Generator](https://github.com/pemrogrammer/api-nodejs-sequelize-jwt-mysql-generator)** - Generate a production-ready Express API with Auth in seconds.
 
 ## 🤝 Let's Connect
 
