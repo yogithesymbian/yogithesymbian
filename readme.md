@@ -1,5 +1,3 @@
-![GitHub Stats](https://git-hacker-stats-generator.vercel.app/api/stats?username=yogithesymbian&theme=emerald)
-
 <div align="center">
 
 ![Cat Typing](https://github.com/sindresorhus/sindresorhus/blob/main/cat-typing.gif)
@@ -42,6 +40,10 @@
 
 ---
 -->
+
+## Current Projects
+- 🧩 **[YoCatetin](https://yocatetin.com)** - AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
+- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - Fast, offline Rust conversion. Optimize images without leaving VS Code.
 
 ## 🤝 Let's Connect
 
@@ -121,6 +123,10 @@
 
 
 ---
+
+## GitHub Activity
+
+![GitHub Stats](https://git-hacker-stats-generator.vercel.app/api/stats?username=yogithesymbian&theme=emerald)
 
 ## 🏢 My Workspace
 
