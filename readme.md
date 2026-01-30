@@ -44,6 +44,13 @@
 ## Current Projects
 - 🧩 **[YoCatetin](https://yocatetin.com)** - AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
 - 🌠 **[Yo WebP Converter](https://yo-license.pro)** - Fast, offline Rust conversion. Optimize images without leaving VS Code.
+- 📡 **[Yo Netwatch](https://github.com/yogithesymbian/yo_netwatch)** - A reactive realtime internet connection status checker.
+
+## Legacy Projects
+- 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - Fork Laraspace data logistic
+- 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - Connection is matter
+- 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - Scrapping data coronaviurs the base lab
+- 🤖 **[Kotlin Geneartor](https://gist.github.com/yogithesymbian/b476ef3640cb4f1343ef3816064be8be)** - Android Studio Generator MVVM Crud API Integration Automatically
 
 ## 🤝 Let's Connect
 
