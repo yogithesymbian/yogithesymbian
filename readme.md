@@ -44,7 +44,7 @@
 ## Current Projects
 - 🧩 **[YoCatetin](https://yocatetin.com)** - AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
 - 🌠 **[Yo WebP Converter](https://yo-license.pro)** - Fast, offline Rust conversion. Optimize images without leaving VS Code.
-- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - A reactive realtime internet connection status checker.
+- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - A reactive realtime (🦀 Rust) internet connection status checker.
 
 ## Legacy Projects
 - 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - For Agentic engineering who fear mini deployment 'untested' x 'untrusted'
