@@ -47,7 +47,7 @@
 - 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - A reactive realtime internet connection status checker.
 
 ## Legacy Projects
-- 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - For VIBE Coder who fear mini deployment 'untested' x 'untrusted'
+- 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - For Agentic engineering who fear mini deployment 'untested' x 'untrusted'
 - 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - A logistics-focused fork of Laraspace for shipment management.
 - 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - A collection of networking and penetration testing tools.
 - 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - Python-based scraper for Indonesian COVID-19 laboratory data.
