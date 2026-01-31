@@ -1,4 +1,4 @@
-# Hi, I'm Yogi 👋
+# Hi, I'm Yogi AW 👋
 
 <div align="center">
 
@@ -10,7 +10,6 @@
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian)
-[![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
 
 </div>
 
@@ -43,14 +42,14 @@
 ---
 -->
 
-## ⚡ Energeia (Current Projects)
-*The active drive behind our engineering lab.*
-- 🧩 **[YoCatetin](https://yocatetin.com)** - **The Noesis (Intellect) of Finance.** AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
-- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - **The Morphe (Transform) Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code.
-- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status.
+## Current Projects
+*⚡ Energeia The active drive behind our engineering lab.*
+- 🧩 **[YoCatetin](https://yocatetin.com)** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
+- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - **Morphe Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code. [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/YoLicenses.yo-webp?label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=YoLicenses.yo-webp)
+- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status. [![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
 
-## 🏛️ Archaio (Legacy Projects)
-*The Themelio (Foundations) that shaped our journey.*
+## Legacy Projects
+*🏛️ Archaio The Themelio (Foundations) that shaped our journey.*
 - 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - **Chaos-Hermes.** For Agentic engineering who fear mini deployment 'untested' x 'untrusted'.
 - 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - **Logos-Logistics.** A specialized fork of Laraspace for high-precision shipment management.
 - 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - **The Kryptos (Hidden) Kit.** A collection of deep networking and penetration testing tools.
