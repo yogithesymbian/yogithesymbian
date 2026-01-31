@@ -9,7 +9,10 @@
 </div>
 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian) [![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch) ![Installs](https://img.shields.io/visual-studio-marketplace/i/YoLicenses.yo-webp?style=flat-square?label=YoWebP)
+[![Profile Views](https://komarev.com/ghpvc/?username=yogithesymbian&color=blueviolet&style=flat-square)](https://github.com/yogithesymbian) 
+[![Crates.io](https://img.shields.io/crates/v/yo_netwatch?label=Yo%20Netwatch%20Crates.io)](https://crates.io/crates/yo_netwatch) 
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/YoLicenses.yo-webp?style=flat-square&label=Yo-WebP-Converter)](https://marketplace.visualstudio.com/items?itemName=YoLicenses.yo-webp)
+
 
 </div>
 
