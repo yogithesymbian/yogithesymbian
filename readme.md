@@ -41,18 +41,20 @@
 ---
 -->
 
-## Current Projects
-- 🧩 **[YoCatetin](https://yocatetin.com)** - AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
-- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - Fast, offline Rust conversion. Optimize images without leaving VS Code.
-- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - A reactive realtime (🦀 Rust) internet connection status checker.
+## ⚡ Energeia (Current Projects)
+*The active drive behind our engineering lab.*
+- 🧩 **[YoCatetin](https://yocatetin.com)** - **The Noesis (Intellect) of Finance.** AI Expense tracking is no longer tied to one platform (Whatsapp, Telegram, Discord).
+- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - **The Morphe (Transform) Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code.
+- 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status.
 
-## Legacy Projects
-- 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - For Agentic engineering who fear mini deployment 'untested' x 'untrusted'
-- 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - A logistics-focused fork of Laraspace for shipment management.
-- 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - A collection of networking and penetration testing tools.
-- 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - Python-based scraper for Indonesian COVID-19 laboratory data.
-- 🤖 **[Kotlin Geneartor](https://gist.github.com/yogithesymbian/b476ef3640cb4f1343ef3816064be8be)** - Android Studio script for automated MVVM CRUD and API integration.
-- 🔥 **[API Sequelize Generator](https://github.com/pemrogrammer/api-nodejs-sequelize-jwt-mysql-generator)** - Generate a production-ready Express API with Auth in seconds.
+## 🏛️ Archaio (Legacy Projects)
+*The Themelio (Foundations) that shaped our journey.*
+- 🧙 **[Server Bash](https://github.com/yogithesymbian/superior-mysterious-server)** - **Chaos-Hermes.** For Agentic engineering who fear mini deployment 'untested' x 'untrusted'.
+- 🚀 **[Laraspace Fork](https://github.com/yogithesymbian/laravel-shipment-management-system)** - **Logos-Logistics.** A specialized fork of Laraspace for high-precision shipment management.
+- 🤍 **[Black Hat](https://github.com/yogithesymbian/bug-hunting-penetration-rgb-hat)** - **The Kryptos (Hidden) Kit.** A collection of deep networking and penetration testing tools.
+- 🧬 **[Covid](https://github.com/yogithesymbian/covid-indonesia-data-python)** - **Data-Istoria.** Python-based scraper documenting the chronicle of Indonesian COVID-19 laboratory data.
+- 🤖 **[Kotlin Generator](https://gist.github.com/yogithesymbian/b476ef3640cb4f1343ef3816064be8be)** - **Automata-Script.** Android Studio catalyst for automated MVVM CRUD and API integration.
+- 🔥 **[API Sequelize Generator](https://github.com/pemrogrammer/api-nodejs-sequelize-jwt-mysql-generator)** - **The Genesis Tool.** Crafting production-ready Express APIs with Auth in the blink of an eye.
 
 ## 🤝 Let's Connect
 
