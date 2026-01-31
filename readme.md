@@ -47,7 +47,7 @@
 - 🧩 **[YoCatetin](https://yocatetin.com)** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
 - 🌠 **[Yo WebP Converter](https://yo-license.pro)** - **Morphe Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code. [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/YoLicenses.yo-webp?label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=YoLicenses.yo-webp)
 - 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status. [![Crates.io](https://img.shields.io/crates/v/yo_netwatch.svg)](https://crates.io/crates/yo_netwatch)
-- ⏱️ **[Yo Pico Time Shield](https://github.com/yogithesymbian/yo-pico-time-shield)** • **Chronos** – Precision RTC and NTP synchronization shield for Raspberry Pi Pico. ![GitHub release (latest by date)](https://img.shields.io/github/v/release/yogithesymbian/yo-pico-time-shield?label=)
+- ⏱️ **[Yo Pico Time Shield](https://github.com/yogithesymbian/yo-pico-time-shield)** • **Chronos** – Precision RTC and NTP synchronization shield for Raspberry Pi Pico.
 
 ## Legacy Projects
 *🏛️ Archaio The Themelio (Foundations) that shaped our journey.*
