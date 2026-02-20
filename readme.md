@@ -47,8 +47,8 @@
 
 ## Current Projects
 *⚡ Energeia The active drive behind our engineering lab.*
-- 🧩 **[YoCatetin](https://yocatetin.com)** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
-- 🌠 **[Yo WebP Converter](https://yo-license.pro)** - **Morphe Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code.
+- 🧩 **YoCatetin** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
+- 🌠 **Yo WebP Converter** - **Morphe Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code.
 - 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status.
 - ⏱️ **[Yo Pico Time Shield](https://github.com/yogithesymbian/yo-pico-time-shield)** • **Chronos** – Precision RTC and NTP synchronization shield for Raspberry Pi Pico.
 
