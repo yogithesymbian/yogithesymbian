@@ -45,6 +45,11 @@
 ---
 -->
 
+## Personal
+*🧎‍♂️ Lorem .*
+- 🦹 **[Yogiveloper](https://yogiveloper.com)** - **Newbie Hacker** Lorem.
+- 🤴 **[YoVelos](https://yogithesymbian.github.io)** - **YoVelos** Lorem.
+
 ## Current Projects
 *⚡ Energeia The active drive behind our engineering lab.*
 - 🧩 **YoCatetin** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
