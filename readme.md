@@ -46,9 +46,9 @@
 -->
 
 ## Personal
-*🧎‍♂️ Lorem .*
-- 🦹 **[Yogiveloper](https://yogiveloper.com)** - **Newbie Hacker** Lorem.
-- 🤴 **[YoVelos](https://yogithesymbian.github.io)** - **YoVelos** Lorem.
+*🧎‍♂️ Portfolio .*
+- 🦹 **[Yogiveloper](https://yogiveloper.com)** - **Newbie Hacker** Portfolio.
+- 🤴 **[YoVelos](https://yogithesymbian.github.io)** - **YoVelos** Portfolio.
 
 ## Current Projects
 *⚡ Energeia The active drive behind our engineering lab.*
