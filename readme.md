@@ -52,6 +52,7 @@
 
 ## Current Projects
 *⚡ Energeia The active drive behind our engineering lab.*
+- 🎥 **YoClipper** - **The Kairos (Gold Hunter).** Focus on creation; let our AI distill the golden moments and reclaim your time.
 - 🧩 **YoCatetin** - **The Noesis (Intellect) of AI Finance.** Expense tracking is no longer tied to one platform (WA, TG, DC).
 - 🌠 **Yo WebP Converter** - **Morphe Engine.** Fast, offline Rust conversion. Optimize images without leaving VS Code.
 - 📡 **[Yo Netwatch](https://crates.io/crates/yo_netwatch)** - **The Skopeo (Guardian).** A reactive, real-time (🦀 Rust) sentinel for your internet connection status.
