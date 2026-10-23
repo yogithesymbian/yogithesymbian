@@ -147,10 +147,6 @@
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://git-hacker-stats-generator.vercel.app/api/stats?username=yogithesymbian&theme=emerald)
-
 ## 🏢 My Workspace
 
 <div align="center">
