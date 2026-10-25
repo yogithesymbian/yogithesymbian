@@ -1,4 +1,4 @@
-# Hi, I'm Yogi AW 👋
+# Hi, I'm Yogi 👋
 
 <div align="center">
 
