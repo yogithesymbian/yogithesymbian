@@ -47,8 +47,7 @@
 
 ## Personal
 *🧎‍♂️ Portfolio .*
-- 🦹 **[Yogiveloper](https://yogiveloper.com)** - **Newbie Hacker** Portfolio.
-- 🤴 **[YoVelos](https://yogithesymbian.github.io)** - **YoVelos** Portfolio.
+- 🦹 **[Yogi](https://yogiarifwidodo.my.id)** - **Pixel Art** Portfolio.
 
 ## Current Projects
 *⚡ Energeia The active drive behind our engineering lab.*
